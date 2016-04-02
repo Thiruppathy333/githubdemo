@@ -24,4 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)insertnewobject
+{
+    NSLog(@"insert new objects");
+}
+
 @end
