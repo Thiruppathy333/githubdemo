@@ -35,4 +35,11 @@
 
 //ramkumar
 
+
+
+-(void) insertobject
+{
+    NSLog(@"thiruppathy");
+}
+
 @end
