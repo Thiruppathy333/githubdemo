@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"hello");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -24,14 +28,18 @@
     // Dispose of any resources that can be recreated.
 }
 
--(void)insertnewobject
-{
-    NSLog(@"insert new objects");
-}
 
--(void)deleteobject
+//new inserting method
+
+//thiruppathy
+
+//ramkumar
+
+
+
+-(void) insertobject
 {
-    NSLog(@"delete object");
+    NSLog(@"thiruppathy");
 }
 
 @end
