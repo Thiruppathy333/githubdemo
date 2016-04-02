@@ -29,4 +29,9 @@
     NSLog(@"insert new objects");
 }
 
+-(void)deleteobject
+{
+    NSLog(@"delete object");
+}
+
 @end
